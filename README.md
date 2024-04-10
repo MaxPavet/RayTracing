@@ -1,4 +1,4 @@
-Générateur d'image à partir d'un environnement 3D virtuel en raytracing et SDF
+Projet d'apprentissage - Générateur d'image à partir d'un environnement 3D virtuel en raytracing et SDF
 
 Exemple de résultat:
 
